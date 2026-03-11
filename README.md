@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 - 📱 Android Developer specialized in **Kotlin**  
-- 🛠 Experienced with **XML layouts, Jetpack Compose, Firebase, Room, SQLDelight, Hilt, Koin, MVVM, and Flow**  
+- 🛠 Experienced with **XML layouts, Jetpack Compose, Firebase, Room, SQLDelight, Retrofit, Ktor, Hilt, Koin, MVVM, and Flow**  
 - 🌍 Working with **Kotlin Multiplatform (KMP)** for shared code across platforms  
-- 🖥 Comfortable working with **Android Studio**  
+- 🖥 Comfortable working with **Android Studio**
 
 ---
 
@@ -16,6 +16,8 @@
 ![XML](https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![SQLDelight](https://img.shields.io/badge/SQLDelight-3DDC84?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge)
 ![Hilt](https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge&logo=dagger&logoColor=white)
 ![Koin](https://img.shields.io/badge/Koin-FF6B6B?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
