@@ -2,7 +2,8 @@
 
 ## 🚀 About Me
 - 📱 Android Developer specialized in **Kotlin**  
-- 🛠 Experienced with **XML layouts, Firebase, Room, Hilt, MVVM, and Flow**  
+- 🛠 Experienced with **XML layouts, Jetpack Compose, Firebase, Room, SQLDelight, Hilt, Koin, MVVM, and Flow**  
+- 🌍 Working with **Kotlin Multiplatform (KMP)** for shared code across platforms  
 - 🖥 Comfortable working with **Android Studio**  
 
 ---
@@ -10,9 +11,13 @@
 ## 🛠️ Technologies & Tools
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![SQLDelight](https://img.shields.io/badge/SQLDelight-3DDC84?style=for-the-badge)
 ![Hilt](https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge&logo=dagger&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-FF6B6B?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MVVM](https://img.shields.io/badge/MVVM-4285F4?style=for-the-badge)
 ![Flow](https://img.shields.io/badge/Flow-4285F4?style=for-the-badge)
