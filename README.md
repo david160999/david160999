@@ -4,8 +4,6 @@
 - 📱 Android Developer specialized in **Kotlin**  
 - 🛠 Experienced with **XML layouts, Firebase, Room, Hilt, MVVM, and Flow**  
 - 🖥 Comfortable working with **Android Studio**  
-- 🌱 Currently learning **Jetpack Compose and Android Testing**  
-  ![Learning](https://img.shields.io/badge/Learning-Compose%20%26%20Testing-blue?style=for-the-badge)
 
 ---
 
