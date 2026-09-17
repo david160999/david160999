@@ -1,30 +1,37 @@
 # 👋 Hi! I'm David
 
 ## 🚀 About Me
-- 📱 Android Developer specialized in **Kotlin**  
-- 🛠 Experienced with **XML layouts, Jetpack Compose, Firebase, Room, SQLDelight, Retrofit, Ktor, Hilt, Koin, MVVM, and Flow**  
-- 🌍 Working with **Kotlin Multiplatform (KMP)** for shared code across platforms  
-- 🖥 Comfortable working with **Android Studio**
+- 💻 **Backend Developer** specialized in **Java** & **Kotlin**
+- 🛠 Experienced in building robust **REST APIs** using **Spring Boot** and **Ktor**
+- 🏗 Focused on **Clean Architecture**, **Layered Architecture**, and **SOLID principles**
+- 🛢 Proficient in relational databases with **PostgreSQL, MySQL, Oracle,** and **Spring Data JPA / Hibernate**
+- 🧪 Committed to quality code using **Clean Code** standards and testing with **JUnit & Mockito**
+- 🖥 Preferred IDEs: **IntelliJ IDEA** & **Android Studio**
 
 ---
 
 ## 🛠️ Technologies & Tools
+
+### Backend & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![XML](https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white)
-![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![SQLDelight](https://img.shields.io/badge/SQLDelight-3DDC84?style=for-the-badge)
-![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge)
-![Hilt](https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge&logo=dagger&logoColor=white)
-![Koin](https://img.shields.io/badge/Koin-FF6B6B?style=for-the-badge)
+
+### Databases & Persistence
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MVVM](https://img.shields.io/badge/MVVM-4285F4?style=for-the-badge)
-![Flow](https://img.shields.io/badge/Flow-4285F4?style=for-the-badge)
+
+### Testing & Tools
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ---
 
